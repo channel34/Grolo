@@ -1,0 +1,9 @@
+.navLinks {
+    color: black;
+    text-decoration: none ;
+    padding: .5em .8em
+}
+
+.navLinks .nav-links a.active{
+    color: gray;
+}
